@@ -1,6 +1,9 @@
-# Solarized terminator colors
+# Solarized terminator colors *customized*
 
 A color theme for [terminator](http://www.tenshu.net/terminator/) using Ethan Schoonover’s [Solarized color scheme](http://ethanschoonover.com/solarized).
+
+## NOTE
+  * This fork is customized for my own font preference.
 
 ## Repositories
   * This theme as a single repository: [/ghuntley/terminator-solarized](https://github.com/ghuntley/terminator-solarized)
